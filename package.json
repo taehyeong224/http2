@@ -1,0 +1,25 @@
+{
+  "name": "http2",
+  "version": "1.0.0",
+  "description": "study http2",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taehyeong224/http2.git"
+  },
+  "keywords": [
+    "http"
+  ],
+  "author": "kth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taehyeong224/http2/issues"
+  },
+  "homepage": "https://github.com/taehyeong224/http2#readme",
+  "dependencies": {
+    "http2": "latest"
+  }
+}
